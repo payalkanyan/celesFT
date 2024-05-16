@@ -36,16 +36,16 @@ Celestia's architecture simplifies blockchain development, making it easier for 
 
 ### The proof of the Rollup building and Node running:
 #### The Celestia Running Light Node
-![light node]()
+![light node](https://github.com/payalkanyan/celesFT/blob/1c58ac2832c387bc404d9d8de9801ac29a71cd22/images/runningnode.png)
 
 #### The eth-rpc added in orbit-setup-script
-![orbit-setup-script]()
+![orbit-setup-script](https://github.com/payalkanyan/celesFT/blob/1c58ac2832c387bc404d9d8de9801ac29a71cd22/images/orbit-setup-script.png)
 
 #### The Arbitrum Local explorer
-![arbitrum local explorer]()
+![arbitrum local explorer](https://github.com/payalkanyan/celesFT/blob/1c58ac2832c387bc404d9d8de9801ac29a71cd22/images/localexplorere.png)
 
 #### The CelesFT(main frontend)
-![frontend]()
+![frontend](https://github.com/payalkanyan/celesFT/blob/1c58ac2832c387bc404d9d8de9801ac29a71cd22/images/CelesFT.png)
 
 
 ### The tracks applied for
