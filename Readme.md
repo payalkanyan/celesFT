@@ -1,7 +1,7 @@
 # CelesFT 
 #### A Celestia Rollup based NFT marketplace, leveraging Celestia's unique architecture and features designed to enhance scalability, security, and developer flexibility.
 
-![the architecture]()
+![the architecture](https://github.com/payalkanyan/celesFT/blob/3ad614a07dececb88b4c5e875a4a48a7f772c6ca/images/archi.png)
 
 
 Here's a summary of the benefits
@@ -32,7 +32,7 @@ Celestia's architecture simplifies blockchain development, making it easier for 
 
 #### RASPBERRY TESTNET : [0xd25b0d02ef6e4802332a0eeb1746c4d950aa77c0f68e85c4bbbc6f4e196aa39f]()
 
-![bubs deployment]()
+![bubs deployment](https://github.com/payalkanyan/celesFT/blob/3ad614a07dececb88b4c5e875a4a48a7f772c6ca/images/Bubstestnet.png)
 
 ### The proof of the Rollup building and Node running:
 #### The Celestia Running Light Node
