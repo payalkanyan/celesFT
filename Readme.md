@@ -53,5 +53,14 @@ Celestia's architecture simplifies blockchain development, making it easier for 
 #### Hyperlane
 [Link to the code]()
 
+#### Gelato:
+Raspberry testnet deployed
+
+#### UX :
+Added web2 authentication 
+
+#### Community :
+Made COmmunity based NFT recommending and categorization of NFTs based on Houses
+
 
 
