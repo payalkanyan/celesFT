@@ -57,10 +57,10 @@ Celestia's architecture simplifies blockchain development, making it easier for 
 Raspberry testnet deployed
 
 #### UX :
-Added web2 authentication 
+Added web2 authentication with Google, Discord, Facebook and Reddit
+![web2 authentication]() 
 
 #### Community :
-Made COmmunity based NFT recommending and categorization of NFTs based on Houses
-
-
+Made Community based NFT recommending and categorization of NFTs based on Houses
+![Community]()
 
