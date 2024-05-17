@@ -58,9 +58,10 @@ Raspberry testnet deployed
 
 #### UX :
 Added web2 authentication with Google, Discord, Facebook and Reddit
-![web2 authentication]() 
+
+![web2 authentication](https://github.com/payalkanyan/celesFT/blob/1fc3b2c057cbd1bafc15f5da13bd64643159d64c/images/auth.png) 
 
 #### Community :
 Made Community based NFT recommending and categorization of NFTs based on Houses
-![Community]()
+
 
